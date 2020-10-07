@@ -1,0 +1,6 @@
+E:\ElevenFiftyProjects\DotNetProjects\GoldBadge01\02_Classes\bin\Debug\02_Classes.dll
+E:\ElevenFiftyProjects\DotNetProjects\GoldBadge01\02_Classes\bin\Debug\02_Classes.pdb
+E:\ElevenFiftyProjects\DotNetProjects\GoldBadge01\02_Classes\obj\Debug\02_Classes.csprojAssemblyReference.cache
+E:\ElevenFiftyProjects\DotNetProjects\GoldBadge01\02_Classes\obj\Debug\02_Classes.csproj.CoreCompileInputs.cache
+E:\ElevenFiftyProjects\DotNetProjects\GoldBadge01\02_Classes\obj\Debug\02_Classes.dll
+E:\ElevenFiftyProjects\DotNetProjects\GoldBadge01\02_Classes\obj\Debug\02_Classes.pdb

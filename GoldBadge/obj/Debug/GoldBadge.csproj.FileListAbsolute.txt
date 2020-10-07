@@ -1,0 +1,10 @@
+E:\ElevenFiftyProjects\DotNetProjects\GoldBadge01\GoldBadge\bin\Debug\GoldBadge.exe.config
+E:\ElevenFiftyProjects\DotNetProjects\GoldBadge01\GoldBadge\bin\Debug\GoldBadge.exe
+E:\ElevenFiftyProjects\DotNetProjects\GoldBadge01\GoldBadge\bin\Debug\GoldBadge.pdb
+E:\ElevenFiftyProjects\DotNetProjects\GoldBadge01\GoldBadge\bin\Debug\01_Classes.dll
+E:\ElevenFiftyProjects\DotNetProjects\GoldBadge01\GoldBadge\bin\Debug\01_Classes.pdb
+E:\ElevenFiftyProjects\DotNetProjects\GoldBadge01\GoldBadge\obj\Debug\GoldBadge.csprojAssemblyReference.cache
+E:\ElevenFiftyProjects\DotNetProjects\GoldBadge01\GoldBadge\obj\Debug\GoldBadge.csproj.CoreCompileInputs.cache
+E:\ElevenFiftyProjects\DotNetProjects\GoldBadge01\GoldBadge\obj\Debug\GoldBadge.csproj.CopyComplete
+E:\ElevenFiftyProjects\DotNetProjects\GoldBadge01\GoldBadge\obj\Debug\GoldBadge.exe
+E:\ElevenFiftyProjects\DotNetProjects\GoldBadge01\GoldBadge\obj\Debug\GoldBadge.pdb
